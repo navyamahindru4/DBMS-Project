@@ -96,3 +96,8 @@ Handles financial processing and transaction tracking.
 ### Payment
 - Records payment details for each order.
 - Includes payment mode (UPI/Card/COD), transaction reference, and status.
+
+## Group 19 (Section B, PGDM-34)
+341088 - Naman Jain
+341089 - Navya Mahindru
+341114 - Vaishali Singhania
